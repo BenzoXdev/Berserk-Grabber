@@ -2,8 +2,11 @@
   Berserk Grabber
 </h1>
 
+<p align="center">
+  <img src="gui_images/Berserk.ico" alt="Berserk-Grabber">
+</p>
+
 <div align="center">
-  <img  src="https://user-images.githubusercontent.com/99215486/175369409-b967da5b-e373-48ea-b8f5-8ed3d613df03.gif">
   <br>
   <img  src="https://img.shields.io/github/languages/top/Berserk/Berserk-Grabber?color=6d00c1">
   <img  src="https://img.shields.io/github/stars/Berserk/Berserk-Grabber?color=6d00c1&logoColor=6d00c1">
