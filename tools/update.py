@@ -8,9 +8,9 @@ import requests
 class Update():
     def __init__(self):
         self.version = '1.0'
-        self.github = 'https://raw.githubusercontent.com/Berserk/Berserk-Grabber/main/tools/update.py'
-        self.zipfile = 'https://github.com/Berserk/Berserk-Grabber/archive/refs/heads/main.zip'
-        self.update_checker()
+        self.github = 'https://raw.githubusercontent.com/BenzoXdev/Berserk-Grabber/main/tools/update.py'
+        self.zipfile = 'https://github.com/BenzoXdev/Berserk-Grabber/archive/refs/heads/main.zip'
+        self.update_checker())
 
     def update_checker(self):
         code = requests.get(self.github).text
